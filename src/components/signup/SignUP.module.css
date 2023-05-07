@@ -1,0 +1,15 @@
+.button{
+    width: 100%;
+}
+
+.wrapper{
+    width: 100%;
+}
+
+.button{
+    background-color: rgb(172, 180, 180);
+}
+
+.button:hover{
+    background-color: rgb(172, 180, 180);
+}

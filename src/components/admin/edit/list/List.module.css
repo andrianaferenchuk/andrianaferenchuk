@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.p,
+.divForInput {
+  font-size: 20px;
+  text-align: center;
+  width: 50%;
+}
+
+.p {
+  text-align: left;
+  color: rgb(172, 180, 180);
+}
+
+.wrapperMain{
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}

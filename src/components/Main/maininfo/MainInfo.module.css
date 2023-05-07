@@ -1,0 +1,18 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+}
+
+h1{
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+p{
+    margin: 0;
+    font-weight: bold;
+}
+
+.point{
+    color: rgb(172, 180, 180);
+}
